@@ -1,0 +1,6 @@
+@BWA_HostAddress = http://localhost:5119
+
+GET {{BWA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
